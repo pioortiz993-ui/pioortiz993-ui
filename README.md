@@ -1,6 +1,7 @@
+![](https://github.com/pioortiz993-ui/pioortiz993-ui/blob/6e8006fa7376d2132efeaffbd6d24430a3af49b6/Pin%20by%20Melissa%20Furmedge%20on%20Maddi%20_%20Twitter%20cover%20photo%2C%20Twitter%20header%20pictures%2C%20Header%20pictures.jpeg)
+
 ## Hi there 👋
 
-<!--
 **pioortiz993-ui/pioortiz993-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
